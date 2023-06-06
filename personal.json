@@ -1,0 +1,122 @@
+[
+    {
+      "tipo_agente": "Docente",
+      "cuil": "11111111",
+      "apellido": "González",
+      "nombre": "Juan",
+      "sueldo_basico": 50000,
+      "antiguedad": 5,
+      "carrera": "Ingeniería",
+      "cargo": "Simple",
+      "catedra": "Algoritmos"
+    },
+    {
+      "tipo_agente": "PersonalApoyo",
+      "cuil": "22222222",
+      "apellido": "López",
+      "nombre": "María",
+      "sueldo_basico": 40000,
+      "antiguedad": 3,
+      "categoria": 1
+    },
+    {
+      "tipo_agente": "PersonalApoyo",
+      "cuil": "226577522",
+      "apellido": "López",
+      "nombre": "Karla",
+      "sueldo_basico": 40000,
+      "antiguedad": 3,
+      "categoria": 22
+    },
+    {
+      "tipo_agente": "Investigador",
+      "cuil": "33333333",
+      "apellido": "Martínez",
+      "nombre": "Pedro",
+      "sueldo_basico": 60000,
+      "antiguedad": 7,
+      "area_investigacion": "Inteligencia Artificial",
+      "tipo_investigacion": "Experimental"
+    },
+    {
+      "tipo_agente": "DocenteInvestigador",
+      "cuil": "44444444",
+      "apellido": "Rodríguez",
+      "nombre": "Laura",
+      "sueldo_basico": 55000,
+      "antiguedad": 4,
+      "carrera": "Ciencias",
+      "cargo": "Exclusivo",
+      "catedra": "Física",
+      "area_investigacion": "Astrofísica",
+      "tipo_investigacion": "Teórica",
+      "categoria": "Categoría 2",
+      "importe_extra": 3000
+    },
+    {
+      "tipo_agente": "Docente",
+      "cuil": "55555555",
+      "apellido": "López",
+      "nombre": "Carlos",
+      "sueldo_basico": 45000,
+      "antiguedad": 6,
+      "carrera": "Matemáticas",
+      "cargo": "Semiexclusivo",
+      "catedra": "Álgebra"
+    },
+    {
+      "tipo_agente": "Docente",
+      "cuil": "66666666",
+      "apellido": "Pérez",
+      "nombre": "María",
+      "sueldo_basico": 48000,
+      "antiguedad": 8,
+      "carrera": "Literatura",
+      "cargo": "Simple",
+      "catedra": "Literatura Contemporánea"
+    },
+    {
+      "tipo_agente": "Docente",
+      "cuil": "77777777",
+      "apellido": "Fernández",
+      "nombre": "Pedro",
+      "sueldo_basico": 52000,
+      "antiguedad": 3,
+      "carrera": "Historia",
+      "cargo": "Simple",
+      "catedra": "Historia Antigua"
+    },
+    {
+      "tipo_agente": "Docente",
+      "cuil": "88888888",
+      "apellido": "Gómez",
+      "nombre": "Ana",
+      "sueldo_basico": 47000,
+      "antiguedad": 2,
+      "carrera": "Derecho",
+      "cargo": "Simple",
+      "catedra": "Derecho Penal"
+    },
+    {
+      "tipo_agente": "Docente",
+      "cuil": "99999999",
+      "apellido": "López",
+      "nombre": "Javier",
+      "sueldo_basico": 49000,
+      "antiguedad": 4,
+      "carrera": "Psicología",
+      "cargo": "Semiexclusivo",
+      "catedra": "Psicología Social"
+    },
+    {
+      "tipo_agente": "Docente",
+      "cuil": "10101010",
+      "apellido": "Sánchez",
+      "nombre": "Laura",
+      "sueldo_basico": 53000,
+      "antiguedad": 7,
+      "carrera": "Biología",
+      "cargo": "Exclusivo",
+      "catedra": "Genética"
+    }
+  ]  
